@@ -6,6 +6,6 @@
 5. Install the plugin to your xxh home:
 ```
 cd ~/.xxh/plugins
-git clone --depth 1 https://github.com/xonssh/xxh-plugin-sample
+git clone --depth 1 https://github.com/xonssh/xxh-plugin-your-title
 ```
 6. Try connect `xxh [user@]host[:port]`
