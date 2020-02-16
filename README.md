@@ -2,7 +2,7 @@
 1. Fork this repo
 2. Add your functions to `xonshrc.xsh`
 3. Replace this list to description of your xxh plugin
-4. Push your commits and rename your repo to xxh-plugin-[title]
+4. Push your commits and rename your repo to `xxh-plugin-[title]`
 5. Install the plugin to your xxh home:
 ```
 cd ~/.xxh/plugins
