@@ -1,7 +1,8 @@
-1. Fork this
+1. Fork this repo
 2. Add your functions 
-3. Rename your repo to xxh-plugin-[title]
-4. Enjoy :)
+3. Remove this list
+4. Rename your repo to xxh-plugin-[title]
+5. Test, develop and enjoy!
 
 ------------------------------------------------------
 
