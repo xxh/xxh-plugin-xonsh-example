@@ -6,3 +6,4 @@
 # Examples:
 #  * Useful function - https://github.com/xonssh/xxh-plugin-pipe-liner/blob/master/xonshrc.xsh
 #  * Color theme - https://github.com/xonssh/xxh-plugin-theme-bar/blob/master/xonshrc.xsh
+print('Hello from xxh-plugin-sample/xonshrc.xsh')
