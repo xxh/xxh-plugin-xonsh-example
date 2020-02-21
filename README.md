@@ -14,4 +14,4 @@ git clone --depth 1 https://github.com/yourname/xxh-plugin-yourtitle
 # build it if needed
 xonsh xxh-plugin-yourtitle/build.xsh
 ```
-6. Try connect `xxh [user@]host[:port]`
+6. Try connect in update mode: `xxh [user@]host[:port] +if`
