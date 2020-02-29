@@ -2,7 +2,6 @@
 1. Fork this repo
 2. Edit the plugin files:
     * `xonshrc.xsh` -  this script will be executed on the host when you connect to the host. Put here your functions, environment variables, aliases and whatever you need.
-    * `post_install.xsh` - this script will be executed on the host only once immediately after install xxh on the host. Remove it if not needed.
     * `build.xsh` - this script should be executed to prepare the plugin on local xxh. Remove it if not needed.
 3. Replace this list to description of your xxh plugin
 4. Push your commits and rename your repo to `xxh-plugin-yourtitle`
