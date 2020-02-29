@@ -8,4 +8,6 @@
 #  * Color theme - https://github.com/xonssh/xxh-plugin-theme-bar/blob/master/xonshrc.xsh
 #  * Load xontrib (python package) example - https://github.com/xonssh/xxh-plugin-autojump/blob/master/xonshrc.xsh
 
-print('Hello from xxh-plugin-sample/xonshrc.xsh')
+plugin_path = pf"{__file__}".absolute().parent
+plugin_name = plugin_path.name
+print(f'{plugin_name} say "Hello!" from {plugin_path}')
