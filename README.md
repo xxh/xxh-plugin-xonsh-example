@@ -1,4 +1,4 @@
-# Create your xxh plugin
+# Create your xonsh xxh plugin
 1. Fork this repo
 2. Edit the plugin files:
     * `pluginrc.xsh` -  this script will be executed on the host when you connect to the host. Put here your functions, environment variables, aliases and whatever you need.
