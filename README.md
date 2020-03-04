@@ -8,9 +8,9 @@
 5. Install the plugin to your xxh home:
 ```
 cd ~/.xxh/plugins
-git clone --depth 1 https://github.com/yourname/xxh-plugin-yourtitle
+git clone --depth 1 https://github.com/yourname/xxh-plugin-xonsh-yourtitle
 
 # build it if needed
-xonsh xxh-plugin-yourtitle/build.xsh
+xonsh xxh-plugin-xonsh-yourtitle/build.xsh
 ```
 6. Try connect in update mode: `xxh [user@]host[:port] +if`
