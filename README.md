@@ -3,7 +3,7 @@
 2. Edit the plugin files:
     * `pluginrc.xsh` -  this script will be executed on the host when you connect to the host. Put here your functions, environment variables, aliases and whatever you need.
     * `build.xsh` - this script should be executed to prepare the plugin on local xxh. It executes automatically if `build` directory is not exists.
-3. Replace this list to description of your xxh plugin
+3. Replace this list to description of your xxh plugin (review the examples in other xxh plugins)
 4. Push your commits and rename your repo to `xxh-plugin-xonsh-yourtitle`
 5. Install the plugin to your xxh home:
 ```
