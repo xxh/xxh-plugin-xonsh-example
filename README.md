@@ -21,10 +21,10 @@ The xxh has seamless environment mode which allows to pass variable from your cu
 to the xxh host session. For example if you have `XONSH_COLOR_STYLE` variable with your shell color theme you shouldn't
 worry about passing it manually. Add it to `env` file (one variable name per line) and you can do the magic by using `source xxh.xsh` command:
 ```
-home> echo $XONSH_COLOR_STYLE
+home> print($XONSH_COLOR_STYLE)
 paraiso-dark
 home> source xxh.xsh myhost
-myhost> echo $XONSH_COLOR_STYLE
+myhost> print($XONSH_COLOR_STYLE)
 paraiso-dark
 ``` 
 This very useful when you want to use the same tools on your local and remote host. 
