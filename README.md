@@ -8,11 +8,7 @@
 4. Push your commits and rename your repo to `xxh-plugin-xonsh-yourtitle`
 5. Install the plugin to your xxh home:
 ```
-cd ~/.xxh/xxh/plugins
-git clone --depth 1 https://github.com/yourname/xxh-plugin-xonsh-yourtitle
-
-# build it if needed
-xonsh xxh-plugin-xonsh-yourtitle/build.sh
+xxh +I xxh-plugin-xonsh-yourtitle+git+https://github.com/yourname/xxh-plugin-xonsh-yourtitle
 ```
 6. Try connect in update mode: `xxh [user@]host[:port] +s xonsh +if`
 
