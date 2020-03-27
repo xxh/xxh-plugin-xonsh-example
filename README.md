@@ -10,7 +10,7 @@
 ```
 xxh +I xxh-plugin-xonsh-yourtitle+git+https://github.com/yourname/xxh-plugin-xonsh-yourtitle
 ```
-6. Try connect in update mode: `xxh [user@]host[:port] +s xonsh +if`
+6. Try connect in update mode: `xxh [user@]host[:port] +s xonsh-appimage +if`
 
 ## `env` file
 The xxh has seamless environment mode which allows to pass variable from your current shell session 
